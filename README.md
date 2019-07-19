@@ -15,7 +15,7 @@
   <li> cd into the folder you just made and open it in a text editor (type 'code .' for vscode)</li>
   <li> Now open up two terminals and cd into the backend in one and the frontend in the other</li>
   <li> In the back end terminal, type in bundle install ('bundle i' for short) + press enter, then rails server ('rails s' for short)</li>
-  <li> In the frontend type 'npm install' ('npm i' for short) and then 'npm start' ('npm s' for short)<li> 
+  <li> In the frontend type 'npm install' ('npm i' for short) and then 'npm start' ('npm s' for short)</li> 
  </ul>
 
 
@@ -29,7 +29,7 @@
 <p> Danny Wakeling </p>
 <a href="https://github.com/dwake5">Github</a>
 <a href="https://www.linkedin.com/in/danny-wakeling1/">Linkedin</a>
-
+<br></br>
 <p> Nahit Abu-Nijaila </p>
 <a href="https://github.com/Nahit-1">Github</a>
 
